@@ -17,7 +17,7 @@ Analizar los temas comprendidos entre los capítulos 15 y 16 del libro Principio
 
 **SECCIÓN 15-1: El sistema de los números complejos**
 
-El sistema de los números complejos
+![image](https://user-images.githubusercontent.com/105570939/184462920-dd75353a-17f7-4014-bb00-a73d3a8fc9ea.png)
 
 **SECCIÓN 15-2: Respuesta sinusoidal de circuitos RC en serie.**
 
