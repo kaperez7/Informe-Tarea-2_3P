@@ -109,8 +109,31 @@ Analizar los temas comprendidos entre los capítulos 15 y 16 del libro Principio
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-En este punto se debe explicar cómo funcionan la implementación del circuito, programa o resolución de problemas.
-La solución deb estar en esta sección, no como un archivo anexo.
+**PARTE 1: CIRCUITOS EN SERIE**
+
+**SECCIÓN 15–1: El sistema de los números complejos**
+
+**2. Localice los siguientes números en el plano complejo:**
+
+![image](https://user-images.githubusercontent.com/105570939/186549152-d18f6ffb-3afc-4031-9f3e-0225e7889e09.png)
+
+a) ![image](https://user-images.githubusercontent.com/105570939/186558177-320e881d-7296-4816-b857-aee5e256c491.png)
+
+b)![image](https://user-images.githubusercontent.com/105570939/186558300-48de166d-8c19-4234-9439-00735020c227.png)
+
+c)![image](https://user-images.githubusercontent.com/105570939/186558356-db2f38f5-fea2-481f-9dca-6a48ba750bb5.png)
+
+d)![image](https://user-images.githubusercontent.com/105570939/186558397-86268841-8517-4da2-957a-66fdba06e128.png)
+
+
+
+
+
+
+
+
+
+
 
 4. VIDEO
 
